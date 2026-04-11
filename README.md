@@ -4,7 +4,7 @@ Beacon (Ultimate Keyboard Shortcuts System)   Project Description: Beacon is a c
 
 # Beacon: Ultimate Keyboard Shortcuts System
 
-**Version:** 3.5.1  
+**Version:** 4.0.0  
 **Platform:** Windows (AutoHotkey v2.0+)
 
 Beacon is a modular, centralized reference system designed to boost productivity by providing instant access to keyboard shortcuts for dozens of applications.
